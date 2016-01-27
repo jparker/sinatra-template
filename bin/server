@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rerun -- rackup -p 4567
